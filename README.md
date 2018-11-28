@@ -1,4 +1,4 @@
-# docker-jenkins
+# Docker image upload
 
 Here we will upload a dockerized image of jenkins on to Dockerhub.
 
